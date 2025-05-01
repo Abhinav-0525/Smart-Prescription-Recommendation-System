@@ -1,16 +1,53 @@
-# Personalized-Medical-Recommendation-System-with-Machine-Learning
-Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
+# ![Smart Prescription Recommendation System](https://socialify.git.ci/Abhinav-0525/Smart-Prescription-Recommendation-System/image?font=Jost&language=1&name=1&owner=1&pattern=Signal&theme=Light)  
+> *Your health assistant: Predicts diseases & recommends prescriptions based on your symptoms.*
 
-User-Friendly Interface: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20ML-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI/UX-User%20Friendly-yellow?style=for-the-badge" />
+</p>
 
-Advanced Machine Learning Models: We've integrated state-of-the-art machine learning models that accurately predict diseases based on input symptoms, ensuring reliable and precise results.
+---
 
-Tailored Recommendations: Receive personalized recommendations for the top 5 medicines, prescription details, and even workout routines based on the predicted disease.
+## 🚀 Features
 
-Flask App Integration: The entire system is powered by a Flask web application, making it easily accessible to users. Experience the convenience of accessing healthcare recommendations from anywhere.
+- 🔍 **Symptom-based Disease Prediction**
+- 📋 **Prescription Recommendations** (medications, diet, workouts, precautions)
+- 💡 **Smart Symptoms Recommendation**
+- 🎯 **Interactive & User-Friendly UI/UX**
 
-Privacy and Security: We prioritize user privacy and data security. Your health information is handled with the utmost confidentiality, adhering to the highest industry standards.
+---
 
-Continuous Improvement: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
+## 🧠 Tech Stack
 
-Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
+- **Machine Learning**: `scikit-learn`, `pandas`, `numpy`
+- **Frontend**: `React`
+- **Backend**: `Flask`
+- **Other Tools**: `Matplotlib`
+
+---
+
+## 🩺 How It Works
+
+1. **User inputs symptoms**  
+2. **ML models predict disease**  
+3. **System recommends:**
+   - Description
+   - Medications
+   - Precautions
+   - Diet
+   - Workouts
+
+---
+
+## 📊 ML Models Used
+
+| Model                      | Description                        |
+|----------------------------|-------------------------------------|
+| SVC                        | Great for high-dimensional data     |
+| Random Forest              | Ensemble & robust                   |
+| Multinomial Naive Bayes     | Multi-class classification          |
+| K-Nearest Neighbors (KNN)  | Simple & effective                  |
+| Gradient Boosting Classifier | High performance through boosting |
+
+---
